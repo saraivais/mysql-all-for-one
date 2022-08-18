@@ -1,4 +1,4 @@
-<h1 align=”center”>TITULO DO PROJETO</h1>
+<h1 align="center">MYSQL ALL FOR ONE</h1>
 
 ## English 🇬🇧
 <details>
@@ -10,9 +10,11 @@ All For One was developed during the Back-end module at [Trybe](https://www.betr
 For this project, the Northwind database was used to recover and manipulate information from various tables using basic SQL queries.
 
 ### Technologies and Tools
-<img src="https://user-images.githubusercontent.com/96205316/185253359-6d9ea996-b398-43d0-bd75-bcbef416bcf3.png" width="60" height="60" alt="docker-logo"/>
+<img src="https://user-images.githubusercontent.com/96205316/185253359-6d9ea996-b398-43d0-bd75-bcbef416bcf3.png" width="75" alt="docker-logo"/>
+<br>
 During development, Docker containerized the application, so it's execution would happen in an isolated environment.
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" height="60" alt="MySQL-logo"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="75" alt="MySQL-logo"/>
+<br>
 MySQL Workbench was used as a visual tool for table manipulation and data selection using SQL queries.
 
 ### Skills Developed
@@ -34,9 +36,11 @@ O All For One foi desenvolvido durante o módulo Back-end em [Trybe](https://www
 Para este projeto, o banco de dados Northwind foi usado para recuperar e manipular informações de várias tabelas usando consultas SQL básicas.
 
 ### Tecnologias e Ferramentas
-<img src="https://user-images.githubusercontent.com/96205316/185253359-6d9ea996-b398-43d0-bd75-bcbef416bcf3.png" width="60" height="60" alt="docker-logo"/>
+<img src="https://user-images.githubusercontent.com/96205316/185253359-6d9ea996-b398-43d0-bd75-bcbef416bcf3.png" width="75" alt="docker-logo"/>
+<br>
 Durante o desenvolvimento, o Docker conteinerizou a aplicação, para que sua execução acontecesse em um ambiente isolado.
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" height="60" alt="MySQL-logo"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="75" alt="MySQL-logo"/>
+<br>
 MySQL Workbench foi usado como ferramenta visual para manipulação de tabelas e seleção de dados usando queries SQL.
 
 
