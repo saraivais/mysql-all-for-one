@@ -13,6 +13,7 @@ For this project, the Northwind database was used to recover and manipulate info
 <img src="https://user-images.githubusercontent.com/96205316/185253359-6d9ea996-b398-43d0-bd75-bcbef416bcf3.png" width="75" alt="docker-logo"/>
 <br>
 During development, Docker containerized the application, so it's execution would happen in an isolated environment.
+<br>
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="75" alt="MySQL-logo"/>
 <br>
 MySQL Workbench was used as a visual tool for table manipulation and data selection using SQL queries.
@@ -39,6 +40,7 @@ Para este projeto, o banco de dados Northwind foi usado para recuperar e manipul
 <img src="https://user-images.githubusercontent.com/96205316/185253359-6d9ea996-b398-43d0-bd75-bcbef416bcf3.png" width="75" alt="docker-logo"/>
 <br>
 Durante o desenvolvimento, o Docker conteinerizou a aplicação, para que sua execução acontecesse em um ambiente isolado.
+<br>
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="75" alt="MySQL-logo"/>
 <br>
 MySQL Workbench foi usado como ferramenta visual para manipulação de tabelas e seleção de dados usando queries SQL.
