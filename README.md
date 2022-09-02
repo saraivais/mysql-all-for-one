@@ -6,7 +6,7 @@
   
 ### Description
 
-All For One was developed during the Back-end module at [Trybe](https://www.betrybe.com/) and run through Docker to create an isolated development environment.
+All For One was developed during the Back-end module at [Trybe](https://www.betrybe.com/) (July, 2022) and run through Docker to create an isolated development environment.
 For this project, the Northwind database was used to recover and manipulate information from various tables using basic SQL queries.
 
 ### Technologies and Tools
@@ -33,7 +33,7 @@ MySQL Workbench was used as a visual tool for table manipulation and data select
   
 ### Descrição
 
-O All For One foi desenvolvido durante o módulo Back-end em [Trybe](https://www.betrybe.com/) e executado no Docker para criar um ambiente de desenvolvimento isolado.
+O All For One foi desenvolvido durante o módulo Back-end em [Trybe](https://www.betrybe.com/) (Julho, 2022) e executado no Docker para criar um ambiente de desenvolvimento isolado.
 Para este projeto, o banco de dados Northwind foi usado para recuperar e manipular informações de várias tabelas usando consultas SQL básicas.
 
 ### Tecnologias e Ferramentas
